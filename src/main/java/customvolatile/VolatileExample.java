@@ -1,3 +1,5 @@
+package customvolatile;
+
 public class VolatileExample {
     private static volatile boolean flag = true;
 

@@ -1,3 +1,5 @@
+package condition.variable;
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 

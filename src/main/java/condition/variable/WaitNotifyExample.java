@@ -1,3 +1,5 @@
+package condition.variable;
+
 public class WaitNotifyExample {
 
     private static final Object lock1 = new Object();
