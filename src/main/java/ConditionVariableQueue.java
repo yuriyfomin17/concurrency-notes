@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-public class ConditionVariable {
+public class ConditionVariableQueue {
 
     private static final Queue<Integer> QUEUE = new ArrayDeque<>();
     private static final int BUFFER_SIZE = 5;
